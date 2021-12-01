@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Angular, React, Springboot, Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MAMADOU12-max?tab=repositories](https://github.com/MAMADOU12-max?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/JudeKlevine?tab=repositories](https://github.com/JudeKlevine?tab=repositories)
 
 - 💬 Ask me about **No ! Check out my Portfolio to know more -  **http://bit.ly/judeklevine** 
 
