@@ -2,9 +2,6 @@
 <h3 align="center">curious and passionated about programming from France 👨‍💻</h3>
 <h4 align="center">Actuary and date scientist</h4>
 
-<p align="left"> <img src="https://img.shields.io/github/followers/MAMADOU12-max?style=social" alt="MAMADOU12-max"/> </p>
-
-<p align="left"> <a href="https://twitter.com/Diouf_modou12" target="blank"><img src="https://img.shields.io/twitter/follow/Diouf_modou12?style=social" alt="Diouf_modou12" /></a> </p>
 
 - 📄 I am an student at **DUAS**
 
