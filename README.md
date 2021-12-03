@@ -8,11 +8,7 @@
 
 - 📄 I am an student at **DUAS**
 
-- 🔭 I’m currently working on **My own Projects that you can find in my **Repository****
-
-- 🤝 I also work on my study projects ***Frontend & Backend Development***
-
-- 🌱 I’m currently learning **Angular, React, Springboot, Flutter**
+- 🌱 I’m currently learning **stochastic simulation, data scienc, statistics and case study, actuary, optimisation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JudeKlevine?tab=repositories](https://github.com/JudeKlevine?tab=repositories)
 
@@ -40,7 +36,7 @@
 </a>
 <br>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="firebase" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
