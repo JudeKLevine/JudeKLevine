@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jude Kevine</h1>
+<h1 align="center">Hi there 👋, I'm Jude Klevine</h1>
 <h3 align="center">curious and passionated about programming from France 👨‍💻</h3>
 <h4 align="center">Actuary and date scientist</h4>
 
