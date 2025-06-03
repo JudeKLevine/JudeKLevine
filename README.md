@@ -1,16 +1,19 @@
-<h1 align="center">Hi there 👋, Bonjour, je m'appelle Jude Klevine</h1>
+<h1 align="center">Bonjour 👋, je m'appelle Jude Klevine</h1>
 <h3 align="center">Diplômé en actuariat de l’Université de Strasbourg (DUAS) 🎓</h3>
 <h3 align="center">Membre associé de l’Institut des Actuaires de France 📘</h3>
 <h4 align="center">Actuaire chez Cardif Lux Vie 🧮</h4>
 
 <ul>
-  <li>📚 Diplômé du <strong>DUAS</strong> à Strasbourg</li>
-  <li>🌱 Compétences actuelles : <strong>simulation stochastique, science des données, statistiques, études de cas, optimisation</strong></li>
-  <li>👨‍💻 Mes projets sont disponibles sur : <a href="https://github.com/JudeKlevine?tab=repositories" target="_blank">GitHub</a></li>
-  <li>💬 En savoir plus ? Consultez mon <a href="http://bit.ly/judeklevine" target="_blank">portfolio</a></li>
-  <li>📫 Contact : <a href="mailto:jk.klevine@gmail.com">jk.klevine@gmail.com</a></li>
+  <li>📚 Formation : <strong>DUAS - Université de Strasbourg</strong></li>
+  <li>🌱 Domaines d’expertise : <strong>Assurance vie, modélisation, Solvabilité II, provisionnement, science des données, ALM</strong></li>
+  <li>👨‍💻 Mes projets sont disponibles sur <a href="https://github.com/JudeKlevine?tab=repositories" target="_blank">GitHub</a></li>
+  <li>🗂️ En savoir plus ? Découvrez mon <a href="http://bit.ly/judeklevine" target="_blank">portfolio général</a></li>
+  <li>📊 Travaux réalisés (analyses & visualisations) : <a href="https://rpubs.com/JKLEVINE" target="_blank">RPubs</a></li>
+  <li>📫 Me contacter : <a href="mailto:jk.klevine@gmail.com">jk.klevine@gmail.com</a></li>
   <li>⚡ Fun fact : <em>J’aime les chiffres, surtout quand ils sont positifs ! 💰</em></li>
 </ul>
+
+
 
 
 
