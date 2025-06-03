@@ -38,8 +38,7 @@
 
 <br/>
 
-<img align="left" alt="Ionic" width="40" height="40" src="https://pbs.twimg.com/profile_images/1148952014036054016/xxv7lLvp_400x400.jpg" />
-<img align="left" alt="Flutter" width="40" height="40" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
+<img align="left" alt="Excel" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/640px-Microsoft_Office_Excel_%282019–present%29.svg.png" />
 
 <br/> <br/>
   <img align="left" alt="GitHub" width="40" height="40"    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
