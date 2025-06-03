@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jude-klevine-42158121b" target="blank"><img align="center" src="https://studenjoy.com/wp-content/uploads/2019/06/LinkedIn_HP-770x515.jpg" alt="Jude-Klevine" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jude-klevine-42158121b" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/729101_linkedin_icon.png/640px-729101_linkedin_icon.png" alt="Jude-Klevine" height="30" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=+33 6 41 93 28 10&text=Contactez moi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Modou_Diouf" height="30" width="40" /></a>
 </p>
 
