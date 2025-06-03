@@ -1,6 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Jude Klevine</h1>
-<h3 align="center">curious and passionated about programming from France 👨‍💻</h3>
-<h4 align="center">Actuary and date scientist</h4>
+<h1 align="center">Hi there 👋, Bonjour, je m'appelle jude klevine</h1>
+<h3 align="center">Diplomé en actuariat de l'université de Strasvbourg (DUAS)👨‍💻</h3>
+<h3 align="center">Membre associué de l'instutut des actuzaires de FRance👨‍💻</h3>
+<h4 align="center">Actuzire chez Cardif Lux vie</h4>
 
 
 - 📄 I am an student at **DUAS**
