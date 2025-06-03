@@ -1,20 +1,18 @@
-<h1 align="center">Hi there 👋, Bonjour, je m'appelle jude klevine</h1>
-<h3 align="center">Diplomé en actuariat de l'université de Strasvbourg (DUAS)👨‍💻</h3>
-<h3 align="center">Membre associué de l'instutut des actuzaires de FRance👨‍💻</h3>
-<h4 align="center">Actuzire chez Cardif Lux vie</h4>
+<h1 align="center">Hi there 👋, Bonjour, je m'appelle Jude Klevine</h1>
+<h3 align="center">Diplômé en actuariat de l’Université de Strasbourg (DUAS) 🎓</h3>
+<h3 align="center">Membre associé de l’Institut des Actuaires de France 📘</h3>
+<h4 align="center">Actuaire chez Cardif Lux Vie 🧮</h4>
+
+<ul>
+  <li>📚 Diplômé du <strong>DUAS</strong> à Strasbourg</li>
+  <li>🌱 Compétences actuelles : <strong>simulation stochastique, science des données, statistiques, études de cas, optimisation</strong></li>
+  <li>👨‍💻 Mes projets sont disponibles sur : <a href="https://github.com/JudeKlevine?tab=repositories" target="_blank">GitHub</a></li>
+  <li>💬 En savoir plus ? Consultez mon <a href="http://bit.ly/judeklevine" target="_blank">portfolio</a></li>
+  <li>📫 Contact : <a href="mailto:jk.klevine@gmail.com">jk.klevine@gmail.com</a></li>
+  <li>⚡ Fun fact : <em>J’aime les chiffres, surtout quand ils sont positifs ! 💰</em></li>
+</ul>
 
 
-- 📄 I am an student at **DUAS**
-
-- 🌱 I’m currently learning **stochastic simulation, data scienc, statistics and case study, actuary, optimisation**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JudeKlevine?tab=repositories](https://github.com/JudeKlevine?tab=repositories)
-
-- 💬 Ask me about **No ! Check out my Portfolio to know more -  **http://bit.ly/judeklevine** 
-
-- 📫 How to reach me **jk.klevine@gmail.com**
-
-- ⚡ Fun fact **I like only $ 🤑**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
