@@ -7,8 +7,8 @@
   <li>📚 Formation : <strong>DUAS - Université de Strasbourg</strong></li>
   <li>🌱 Domaines d’expertise : <strong>Assurance vie, modélisation, Solvabilité II, provisionnement, science des données, ALM</strong></li>
   <li>👨‍💻 Mes projets sont disponibles sur <a href="https://github.com/JudeKlevine?tab=repositories" target="_blank">GitHub</a></li>
-  <li>🗂️ En savoir plus ? Découvrez mon <a href="http://bit.ly/judeklevine" target="_blank">portfolio général</a></li>
-  <li>📊 Travaux réalisés (analyses & visualisations) : <a href="https://rpubs.com/JKLEVINE" target="_blank">RPubs</a></li>
+  <li>🗂️ Résumés de mémoires : retrouvez-les dans <a href="https://github.com/JudeKLevine/M-moires" target="_blank">Mémoire.al</a></li>
+  <li>📊 Travaux réalisés (analyses & visualisations) : disponibles sur <a href="https://rpubs.com/JKLEVINE" target="_blank">RPubs</a></li>
   <li>📫 Me contacter : <a href="mailto:jk.klevine@gmail.com">jk.klevine@gmail.com</a></li>
   <li>⚡ Fun fact : <em>J’aime les chiffres, surtout quand ils sont positifs ! 💰</em></li>
 </ul>
